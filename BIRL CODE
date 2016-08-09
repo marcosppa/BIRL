@@ -1,0 +1,33 @@
+OH O HOME AI PO(MONSTRO media(MONSTRO a,MONSTRO b))
+    BORA CUMPADE (a+b)/2;
+BIRL
+
+OH O HOME AI PO(FRANGO passou(MONSTRO m))
+    ELE QUE A GENTE QUER?(m>=5)
+        BORA CUMPADE 'S';
+    NAO VAI DAR NAO
+        BORA CUMPADE 'N';
+    BIRL
+BIRL
+
+
+HORA DO SHOW
+    
+    MONSTRO A, B,C;
+    FRANGO fr;
+    
+    CE QUER VER ESSA PORRA? ("É hora do show Porra !!!\n");
+    
+    CE QUER VER ESSA PORRA?("Entra com as medias ai cumpade:\n");
+    QUE QUE CE QUER MONSTRAO?("%d %d",&A,&B);
+    
+    C = AJUDA O MALUCO TA DOENTE media(A,B);
+    
+    fr = AJUDA O MALUCO TA DOENTE passou(C);
+    
+    CE QUER VER ESSA PORRA?("Se aparecer S tu passou monstrao... Se aparecer N tu reprovou frango !!\n");
+    CE QUER VER ESSA PORRA?("Olha o resultado ai cumpade: %c",fr);
+    CE QUER VER ESSA PORRA?("\n\nBIIIRRRLLLL !!");
+    
+    BORA CUMPADE 0;
+BIRL
